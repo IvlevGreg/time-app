@@ -5,4 +5,4 @@
 #Cache folder
 .idea/
 #Symbols folder
-.
+.node_modules/
